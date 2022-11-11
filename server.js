@@ -14,3 +14,15 @@ async function main() {
 }
 
 main()
+
+/*<style>
+#map { 
+    height: 600px;
+    background-color: #ccc;
+}
+.leaflet-popup-content-wrapper {
+    width: 100%;
+}
+</style>*/
+
+//https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png
